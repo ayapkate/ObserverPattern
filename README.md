@@ -29,4 +29,4 @@
 *   Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 ## UML DIAGRAM
- ![image alt]()
+ ![image alt](https://github.com/ayapkate/ObserverPattern/blob/main/ObserverPatternDesign/ObserverPattern_UMLDGRM.png)
